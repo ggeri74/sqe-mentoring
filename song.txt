@@ -11,3 +11,4 @@ Call my name
 Through the cream
 And I'll hear you scream again
 new line 1
+new line 2
